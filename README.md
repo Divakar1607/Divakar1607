@@ -1,23 +1,51 @@
-<h1 align="center">Hi 👋, I'm Divakar R</h1>
-<h3 align="center">AI & Data Science Student | Full Stack Web Developer | Software Developer</h3>
+<h1 align="center">
+  Hi 👋, I'm Divakar R
+</h1>
+
+<h3 align="center">
+AI & Data Science Student | Full Stack Web Developer | Software Developer
+</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;AI+%26+Data+Science+Student;Full+Stack+Web+Developer;Always+Learning+New+Technologies🚀">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;AI+%26+Data+Science+Student;Full+Stack+Web+Developer;Software+Developer;Always+Learning+New+Technologies🚀">
 </p>
 
 ---
 
-## 🚀 About Me
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+## 👨‍💻 About Me
 
 - 🎓 B.Tech Artificial Intelligence & Data Science
-- 💻 Passionate Full Stack Web Developer
-- 🌱 Currently Learning Java, React, Node.js & AI
-- 🚀 Building Real-World Projects
-- 🎯 Goal: Become a Software Engineer
+- 💻 Full Stack Web Developer
+- 🤖 Interested in AI & Machine Learning
+- 🌱 Currently learning Java, React & Node.js
+- 🚀 Building Real World Projects
+- 🎯 Goal: Software Engineer
 
 ---
 
-## 🛠 Tech Stack
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/Divakar1607">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:rdivakar1607@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
+
+---
+
+## 💻 Tech Stack
 
 <p align="center">
 
@@ -27,39 +55,39 @@
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Divakar1607&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Divakar1607&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divakar1607&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divakar1607&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Divakar1607&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Divakar1607&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🏆 GitHub Trophy
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Divakar1607&theme=tokyonight&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Divakar1607&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
 
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -69,30 +97,26 @@
 
 ---
 
-## 🌐 Connect with Me
+# 📌 Visitor Count
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://github.com/Divakar1607">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="mailto:rdivakar1607@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=Divakar1607&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </p>
 
 ---
 
-## 💡 Quote
-
-> "Code. Learn. Build. Repeat."
+# 💡 Quote
 
 <p align="center">
-⭐ Thanks for visiting my profile ⭐
+
+<i>"First, solve the problem. Then, write the code."</i>
+
 </p>
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my GitHub Profile ⭐
+</h3>
